@@ -1,4 +1,6 @@
-# Export assets from Figma
+[<div align="center"><img src="https://github.com/pontehu/respresso-figma/blob/master/documentation/figma-header.png" height="220" /></div>](https://respresso.io)  
+
+# Export assets from Figma with Respresso Figma plugin [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Don't%20waste%20your%20time%21%20Respresso%20automatically%20delivers%20your%20design%20assets%20into%20your%20Respresso%20project&url=https://respresso.io&via=respresso_io&hashtags=designers,tool,plugin,localization,image,color,app-icon,resources,design-assets,automation,figma)  
  
 ## Introduction
 [Respresso](https://respresso.io) is a digital asset handler, which automatically transforms and delivers assets into your project. Digital assets, such as: localization strings, images, colors, app icons. Now, we created an integration tool for you to easily export your assets from [Figma](https://www.figma.com) to [Respresso](https://app.respresso.io). Attention, you cannot import these assets from Respresso to Figma. OK, let's see how to use it.
