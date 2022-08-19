@@ -1,3 +1,20 @@
+# 🛑 Docs out-of-date notice! 🛑
+This documentation is not updated anymore. 
+All documentation of Respresso moved to https://respresso.io/docs.
+## ✔️ Up-to-date docs of the Figma plugin is here:
+| Content                       | Link                                                                         |
+| ----------------------------- | -----------------------------------------------------------------------------|
+| Installation + Usage          | https://respresso.io/docs/integration-figma-plugin                           |
+| Config options                | https://respresso.io/docs/integration-introduction                           |
+| Localization specific options | https://respresso.io/docs/localization/figma-plugin                          |
+| Image specific options        | https://respresso.io/docs/image/figma-plugin                                 |
+| Color specific options        | https://respresso.io/docs/color/figma-plugin                                 |
+| App icon specific options     | https://respresso.io/docs/app-icon/figma-plugin                              |
+
+## Seriously, 🛑 stop 🛑 here and go to the [new docs](https://respresso.io/docs/integration-figma-plugin)!
+
+---
+
 [<div align="center"><img src="https://github.com/pontehu/respresso-figma/blob/master/documentation/figma-header.png" height="220" /></div>](https://respresso.io)  
 
 # Export assets from Figma with Respresso Figma plugin [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Don't%20waste%20your%20time%21%20Respresso%20automatically%20delivers%20your%20design%20assets%20into%20your%20Respresso%20project&url=https://respresso.io&via=respresso_io&hashtags=designers,tool,plugin,localization,image,color,app-icon,resources,design-assets,automation,figma)  
